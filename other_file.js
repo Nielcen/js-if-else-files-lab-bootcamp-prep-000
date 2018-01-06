@@ -1,4 +1,4 @@
 var index = require("./index.js")
 
-consle.log("index.name")
+consle.log("index")
 
